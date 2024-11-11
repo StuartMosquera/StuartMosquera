@@ -14,10 +14,9 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Techs</h2>
 
 ###
-
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -60,6 +59,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
+
+###
+
+<h2 align="left">Stats</h2>
 
 ###
 
