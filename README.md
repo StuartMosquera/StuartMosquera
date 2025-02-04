@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi there 👋
+
+## Tech Stack
+[![Used Technologies](https://skillicons.dev/icons?i=html,css,js,bash,git,github,react,jest,redux,vite,nodejs,npm)](https://skillicons.dev)
 
 <!--
 **StuartMosquera/StuartMosquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
