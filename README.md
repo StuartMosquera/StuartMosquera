@@ -8,3 +8,10 @@
 
 ![StuartMosquera's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StuartMosquera&theme=dark&show_icons=true&hide_border=false&layout=compact)
 </details>
+
+<details>
+  <summary>:octocat: Latest Contributions</summary>
+
+<!-- CONTRIBUTIONS:START -->
+<!-- CONTRIBUTIONS:END -->
+</details>
