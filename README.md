@@ -14,9 +14,10 @@
   <br>
 
 <!-- CONTRIBUTIONS:START -->
-- **dotnet/docs:** fix sentence for standalone discard with Task [#48663](https://github.com/dotnet/docs/pull/48663)
-- **dotnet/dotnet-api-docs:** fix display for ToString method example [#11852](https://github.com/dotnet/dotnet-api-docs/pull/11852)
+- **dotnet/docs:** add info about accessibility modifiers in constructors for F# records [#49028](https://github.com/dotnet/docs/pull/49028)
+- **dotnet/dotnet-api-docs:** make AddRange method example more readable [#11910](https://github.com/dotnet/dotnet-api-docs/pull/11910)
 - **dotnet/aspnetcore:** remove redundant tag in IAsyncResultFilter and IResultFilter interfaces [#62999](https://github.com/dotnet/aspnetcore/pull/62999)
+- **MicrosoftDocs/PowerShell-Docs:** Add info about NuGet package for PowerShell Host Quickstart samples [12439](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/12439)
 - **xunit/xunit:** Update the VstsClient.cs to use newer Azure DevOps APIs [#3376](https://github.com/xunit/xunit/pull/3376)
 <!-- CONTRIBUTIONS:END -->
 </details>
