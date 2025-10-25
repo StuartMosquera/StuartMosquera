@@ -1,4 +1,4 @@
-## ¡Hello! :wave: I'm Stuart Mosquera
+# ¡Hello! :wave: I'm Stuart Mosquera
 
 <details>
   <summary>:chart_with_upwards_trend: GitHub Stats</summary>
@@ -13,11 +13,13 @@
   <summary>:octocat: Latest Contributions</summary>
   <br>
 
-<!-- CONTRIBUTIONS:START -->
-- **dotnet/docs:** add info about accessibility modifiers in constructors for F# records [#49028](https://github.com/dotnet/docs/pull/49028)
-- **dotnet/dotnet-api-docs:** make AddRange method example more readable [#11910](https://github.com/dotnet/dotnet-api-docs/pull/11910)
-- **dotnet/aspnetcore:** remove redundant tag in IAsyncResultFilter and IResultFilter interfaces [#62999](https://github.com/dotnet/aspnetcore/pull/62999)
+- **dotnet/docs:** add CS8500 compiler warning [#49433](https://github.com/dotnet/docs/pull/49433)
+- **dotnet/dotnet-api-docs:** add missing examples for the EnumerateFiles method [#11781](https://github.com/dotnet/dotnet-api-docs/pull/11781)
 - **MicrosoftDocs/PowerShell-Docs:** Add info about NuGet package for PowerShell Host Quickstart samples [12439](https://github.com/MicrosoftDocs/PowerShell-Docs/pull/12439)
 - **xunit/xunit:** Update the VstsClient.cs to use newer Azure DevOps APIs [#3376](https://github.com/xunit/xunit/pull/3376)
-<!-- CONTRIBUTIONS:END -->
+
 </details>
+
+## Badges
+
+[![An image of @stuartmosquera's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stuartmosquera)](https://holopin.io/@stuartmosquera)
